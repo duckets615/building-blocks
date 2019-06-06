@@ -19,6 +19,6 @@ function computeSumBetween(num1, num2) {
     return sum;  
   }
   
-console.log(computeSumBetween(1, 4));
-console.log(computeSumBetween(2, 5));
+console.log(computeSumBetween(1, 4)); // 6
+console.log(computeSumBetween(2, 5)); // 9
 

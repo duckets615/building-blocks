@@ -12,6 +12,5 @@ function isOldEnoughToDrink(age) {
   return age >= 21;
   }
 
-console.log(isOldEnoughToDrink(21));
-console.log(isOldEnoughToDrink(11));
-  
+console.log(isOldEnoughToDrink(21)); // true;
+console.log(isOldEnoughToDrink(11)); // false;

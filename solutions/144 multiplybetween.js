@@ -22,7 +22,7 @@ function multiplyBetween(num1, num2) {
     return product;  
   }
 
-  console.log(multiplyBetween(2,5));
-  console.log(multiplyBetween(1,4));
+  console.log(multiplyBetween(2,5)); // 24
+  console.log(multiplyBetween(1,4)); // 6
   
   

@@ -15,9 +15,9 @@ console.log(output); // --> 24
 
 function multiplyBetween(num1, num2) {
 
-  }
+}
 
-  console.log(multiplyBetween(2,5));
+  console.log(multiplyBetween(2,5)); 
   console.log(multiplyBetween(1,4));
   
   
