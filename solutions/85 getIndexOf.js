@@ -20,7 +20,6 @@ function getIndexOf(char, str) {
     return -1;
 }
 
-
 function getIndexOf(char, str) {
   return str.indexOf(char);
 }

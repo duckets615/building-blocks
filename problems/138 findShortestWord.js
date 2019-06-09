@@ -13,7 +13,7 @@ console.log(output); // --> 'a'
 */
 
 function findShortestOfOfThreeWords(word1, word2, word3) {
-
+    // code here
 }
 
 console.log(findShortestOfOfThreeWords('a', 'two', 'three')); // a

@@ -12,7 +12,7 @@ console.log(output); // --> 'word'
 */
 
 function getLongestWordOfMixedElements(arr) {
-
+    // code here
 }
 
 console.log(getLongestWordOfMixedElements([3, 'word', 5, 'up', 3, 1])) // word

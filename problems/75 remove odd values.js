@@ -10,10 +10,7 @@ console.log(obj); // --> { a: 2, c: 4 }
 */
 
 function removeOddValues(obj) {
-    for (var k in obj) {
-        if (obj[k] % 2 !== 0) delete obj[k];
-    }
-    return obj;
+  // code here
 }
 
 var obj = {

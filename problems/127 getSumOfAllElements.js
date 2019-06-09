@@ -18,7 +18,7 @@ console.log(output); // --> 13
 */
 
 function getSumOfAllElementsAtProperty(obj, key) {
-  
+ // code here 
 }
 
 var obj = {

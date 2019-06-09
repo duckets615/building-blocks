@@ -8,7 +8,7 @@ console.log(output); // --> 'codecodecode'
 */
 
 function repeatString(string, num) {
-
+    // code here
 }
 
 console.log(repeatString('Lambda', 7));

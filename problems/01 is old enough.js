@@ -11,7 +11,7 @@ console.log(output); // --> true
 */
 
 function isOldEnoughToDrink(age) {
-
+    // code here
 }
 
 console.log(isOldEnoughToDrink(21)); // true;

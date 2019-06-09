@@ -13,7 +13,7 @@ console.log(output); // --> 5
 */
 
 function getLargestNumberAmongMixedElements(arr) {
-
+    // code here
 } 
 
 console.log(getLargestNumberAmongMixedElements([3, 'word', 5, 'up', 3, 1]))

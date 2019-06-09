@@ -14,7 +14,7 @@ console.log(output); // --> true
 */
 
 function isOddWithoutModulo(num) {
-
+    // code here
 }
 
 console.log(isOddWithoutModulo(8));
