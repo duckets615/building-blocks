@@ -1,3 +1,5 @@
+//  127 sum of all elements  tags: object, reduce, iteration
+
 /*
 Write a function called "getSumOfAllElementsAtProperty".
 

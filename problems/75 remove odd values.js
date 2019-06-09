@@ -1,4 +1,4 @@
-//  75 Remove Odd Values
+//  75 Remove Odd Values      tags: object, iteration, delete, dataTypes
 
 /*
 Write a function called "removeOddValues".

@@ -1,5 +1,5 @@
 /*
-Write a function called "addToFrontOfNew".
+Write a function called "addToFrontOfNew". 
 
 Given an array and an element, "addToFrontOfNew" returns a new array containing all the elements of the given array,
  with the given element added to the front.

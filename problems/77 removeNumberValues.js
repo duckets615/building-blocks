@@ -1,4 +1,4 @@
-//  77  remove number values
+//  77  remove number values    tags: object, delete, dataTypes
 
 /*
 Write a function called "removeNumberValues".
