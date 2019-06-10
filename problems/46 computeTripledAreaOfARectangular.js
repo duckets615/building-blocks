@@ -1,0 +1,13 @@
+//  46  compute tripled area of a rectangular   
+
+/*
+Write a function called "computeTripledAreaOfARectangle".
+Given a length and width of a rectangle, "computeTripledAreaOfARectangle" returns the rectangle's area, multiplied by 3.
+
+*/
+
+function computeTripledAreaOfARectangle(length, width) {
+  // code here
+}
+
+console.log(computeTripledAreaOfARectangle(2,4)) // 24
